@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pimdehaan-pset2</string>
+    <string name="header_filling_words">Fill in the words to complete the story!</string>
+    <string name="fill_in_word">Fill in the word:</string>
+</resources>
